@@ -1,0 +1,21 @@
+{
+  "version": "0.2",
+  "language": "fr,en",
+  "words": [
+    "supabase",
+    "nextjs",
+    "vercel",
+    "kilicode"
+  ],
+  "ignorePaths": [
+    "node_modules/**",
+    ".next/**",
+    "build/**",
+    "out/**"
+  ],
+  "flagWords": [],
+  "ignoreRegExpList": [],
+  "maxNumberOfProblems": 100,
+  "maxDuplicateProblems": 100,
+  "minWordLength": 3
+}
